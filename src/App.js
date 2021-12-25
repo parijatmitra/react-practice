@@ -6,6 +6,7 @@ export default function App() {
     <div>
       <h1>Parijat</h1>
       <p>Start editing to see some magic happen :)</p>
+      <p>I am a boy.</p>
     </div>
   );
 }
