@@ -1,4 +1,8 @@
-h1, p {
-  font-family: Lato;
-  color: rgb(26, 175, 51);
+
+.blank{
+  color: rgb(19, 179, 67);
+}
+
+.container{
+  color:brown;
 }
