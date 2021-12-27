@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+import Navbar from './components/Navbar';
 
 
 export default function App() {
@@ -28,6 +29,7 @@ export default function App() {
     </div>
   </div>
 </nav>
+<Navbar/>
     </>
 
   );
