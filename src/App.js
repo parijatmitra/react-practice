@@ -6,7 +6,8 @@ import Navbar from './components/Navbar';
 export default function App() {
   return (
     <>
-   <Navbar title = "TextUtils" aboutText = "About TextUtils"/>
+  <Navbar title = "TextUtils" aboutText = "About TextUtils"/>
+  
     </>
 
   );
