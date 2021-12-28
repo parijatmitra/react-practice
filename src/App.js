@@ -8,8 +8,8 @@ export default function App() {
   return (
     <>
   <Navbar title = "TextUtils" aboutText = "About TextUtils"/>
-  <div className = "container">
-  <TextForm/>
+  <div className = "container my-3">
+  <TextForm heading = "Enter your Text here"/>
   </div>
   
     </>
