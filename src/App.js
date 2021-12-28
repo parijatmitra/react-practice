@@ -9,7 +9,7 @@ export default function App() {
     <>
   <Navbar title = "TextUtils" aboutText = "About TextUtils"/>
   <div className = "container my-3">
-  <TextForm heading = "Enter your Text here"/>
+  <TextForm heading = "Enter your Text to analyse below"/>
   </div>
   
     </>
